@@ -28,3 +28,6 @@ let diaSemanaNome;
   }
 
   console.log(diaSemanaNome);
+
+
+  
