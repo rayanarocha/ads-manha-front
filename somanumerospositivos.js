@@ -6,17 +6,6 @@
 
 const prompt = require("prompt-sync")();
 
-// var num = 0
-// var numAtu = 0
-// var numAntg = 0
-
-// while((numAtu + numAntg) >= num ){
-//     numAntg = num
-//     nu = Number(prompt("Digite o numero: "))
-//     numAtu = numAntg + num
-// }
-// console.log(num + "eh negativo")
-
 var soma = 0
 
 var numero = Number(prompt("Digite um número: "))
