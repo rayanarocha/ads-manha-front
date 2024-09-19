@@ -5,7 +5,7 @@
 // > 25 && <= 35 : quente
 // > 35 : pegando fogo
 
-let temperatura = Number(prompt("Digite uma temperatura: "))
+// let temperatura = Number(prompt("Digite uma temperatura: "))
 
 if(temperatura >= 0 && temperatura <= 15){
   console.log("Está frio!")
@@ -16,3 +16,7 @@ if(temperatura >= 0 && temperatura <= 15){
 } else {
   console.log("Está pegando fogo!")
 }
+
+
+
+
